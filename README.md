@@ -11,4 +11,5 @@ Pueden hacer lo que quieran...
 Hola mundo
 
 # nuevos cambios push des github - github
+# nuevos cambios push des github - local
 # nuevos cambios push desde local
